@@ -1,8 +1,3 @@
-#Code adapted from van Gent, P. (2016).
-# Emotion Recognition Using Facial Landmarks, Python, DLib and OpenCV. A tech blog about fun things with Python and embedded electronics.
-# Retrieved from: http://www.paulvangent.com/2016/08/05/emotion-recognition-using-facial-landmarks/
-#Adapted by @SuzanaMota
-
 #Import required modules
 import cv2
 #import cv2.cv as cv
